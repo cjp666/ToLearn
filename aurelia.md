@@ -11,7 +11,7 @@ compose
     
     view-model="some-model.js"
     
-        _if missing then uses the parent vm_
+        (if missing then uses the parent vm)
         
  
  ```html
