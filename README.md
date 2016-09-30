@@ -11,3 +11,4 @@ See issues
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 * [Change the commit user in github](https://help.github.com/articles/changing-author-info/)
 * [Boy Scout Rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
+* [Emmet](http://docs.emmet.io/abbreviations/syntax/)
