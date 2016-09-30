@@ -1,4 +1,9 @@
 add .bind to a property
+    repeat.for
+    show.bind
+    if.bind
+    href.bind
+    class.bind
 
 compose
 
