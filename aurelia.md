@@ -28,4 +28,19 @@ Make a div editable
 
 Use click.delegate rather than click.trigger
 
+## Working with \<select\>
+
+### Binding to strings
+```html
+<select id="state" value.bind="job.location.state">
+   <option repeat.for="state of states" value.bind="state">${state}</option>
+</select>
+```
+
+### Binding to objects
+```html
+<select id="state" value.bind="job.location.state">
+    <option repeat.for="state in states" model.bind="state.abbreviation">${state.name}</option>
+</select>
+```
 
