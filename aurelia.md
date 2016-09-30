@@ -25,3 +25,7 @@ Make a div editable
 ```html
 <div textContext.bind="event.description" contenteditable="true"></div>
 ```
+
+Use click.delegate rather than click.trigger
+
+
