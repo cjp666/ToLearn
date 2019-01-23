@@ -12,3 +12,6 @@ See issues
 * [Change the commit user in github](https://help.github.com/articles/changing-author-info/)
 * [Boy Scout Rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
 * [Emmet](http://docs.emmet.io/abbreviations/syntax/)
+
+* [IIS Express access from another PC](https://johan.driessen.se/posts/accessing-an-iis-express-site-from-a-remote-computer)
+* [IIS Express Proxy](https://github.com/icflorescu/iisexpress-proxy)
